@@ -62,6 +62,8 @@ Home Assistant Control runs a small control center on an always-on computer in y
 
 **Requirements:** Windows 10/11 (64-bit) or macOS 13+. The web dashboard is served by the same app. The center and devices must be on the same IPv4 subnet. UDP 54321 is used for miIO; TCP 6767/5767 for local SunLogin plugs.
 
+> The current GitHub release contains the Windows installer. The macOS build is produced on macOS and requires developer signing/notarization before public distribution; contact support if you need the macOS build.
+
 1. Download and run the installer.
 2. Start the app. The activation screen shows your machine code.
 3. Buy a license and paste the machine code on the store confirmation page.
