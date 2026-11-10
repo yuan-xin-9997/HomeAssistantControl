@@ -1,0 +1,2 @@
+7a7ac9e47d138bef4dfb01732213c9e799fdf30c0b26bd6b28ab7157ffbd3f0b  HomeAssistantControl-Setup.exe
+

@@ -1,0 +1,27 @@
+# Home Assistant Control
+
+> A local-first control center for compatible Mijia devices and SunLogin smart plugs, with Windows, macOS and browser clients.
+
+Home Assistant Control is a paid desktop application from an independent developer. It runs a control center on an always-on computer, imports compatible Mijia devices through a Xiaomi account, controls them over the local network with miIO/MIoT, and can also scan and control SunLogin smart plugs. It is not affiliated with Xiaomi, Mijia, SunLogin/Oray or the Home Assistant project.
+
+## Product facts
+
+- Price: $9.99 USD, one-time purchase
+- License: 2 computers, 1 year of updates
+- Platforms: Windows 10/11 (64-bit), macOS 13+, browser dashboard served by the app
+- Activation: machine-bound offline HAC code, verified locally with an embedded ECDSA P-256 public key
+- No subscription, no telemetry, no cloud relay
+- Real-device control requires a paid license; a demo mode with sample data is available
+- Local control works without internet; Xiaomi login/import, model spec sync and SunLogin cloud plugs need internet
+- Not supported: Bluetooth/BLE Mesh/Zigbee/Matter gateways, cameras, locks, robot maps, cloud remote control of other homes
+
+## Links
+
+- [Store](https://hacontrol.yuan-xin.top/)
+- [Download](https://github.com/yuan-xin-9997/HomeAssistantControl/releases/latest)
+- [Setup guide](https://hacontrol.yuan-xin.top/guide)
+- [Compatibility](https://hacontrol.yuan-xin.top/compatibility)
+- [Terms](https://hacontrol.yuan-xin.top/terms)
+- [Privacy](https://hacontrol.yuan-xin.top/privacy)
+- [Refund](https://hacontrol.yuan-xin.top/refund)
+- Support: support@yuan-xin.top

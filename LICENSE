@@ -1,0 +1,24 @@
+# Home Assistant Control — End User License Agreement
+
+Copyright (c) 2026 Yuan Xin. All rights reserved.
+
+Home Assistant Control is proprietary software. This repository contains release binaries, documentation and marketing assets, not source code. Your use of the software is governed by the terms accepted at purchase and the Terms of Service published at <https://hacontrol.yuan-xin.top/terms>.
+
+You may:
+
+- install and use the software on the number of computers covered by a valid license;
+- make personal backups of the installer and your activation code;
+- share the unmodified installer with others so they can evaluate the software and purchase their own license.
+
+You may not:
+
+- copy, resell, sublicense, rent or publicly distribute activation codes;
+- remove, bypass or circumvent license checks;
+- reverse engineer, decompile or modify the software except where applicable law expressly permits it;
+- redistribute modified builds or use the Home Assistant Control name or icon in a way that suggests an official relationship.
+
+The software is provided "as is" without warranty of any kind. Device compatibility depends on model, firmware, network configuration and vendor services. To the maximum extent permitted by law, the author is not liable for indirect, incidental or consequential damages, loss of data, loss of profits, or damage to devices or property.
+
+This product is independent and is not affiliated with Xiaomi, Mijia, SunLogin/Oray or the Home Assistant project.
+
+For licensing, refunds and support, see <https://hacontrol.yuan-xin.top/> or email <support@yuan-xin.top>.
