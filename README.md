@@ -36,6 +36,7 @@ Home Assistant Control runs a small control center on an always-on computer in y
 
 <div align="center">
 <img src="screenshots/app-en.png" alt="Home Assistant Control dashboard" width="860" />
+<p><em>The Windows/macOS app currently uses a Simplified Chinese interface; the layout is the same on every client.</em></p>
 </div>
 
 ## Features
