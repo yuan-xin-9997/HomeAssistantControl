@@ -1,1 +1,1 @@
-e1e579475adc7365a6962b49874f1b5d8b1f1b8ffffbc288d020a56acf5eefb5  HomeAssistantControl-Setup.exe
+ad3a61c8ea7c6fb87fe9830df01265eb7095fb36375ca8c1218466091765c587  HomeAssistantControl-Setup.exe
