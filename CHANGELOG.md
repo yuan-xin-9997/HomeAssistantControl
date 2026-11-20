@@ -1,5 +1,16 @@
 # Changelog
 
+## 1.1.0 — 2026-11-20
+
+- 30-day free trial with every feature, counted by the days the app is actually opened.
+- Trial state is server-authoritative and machine-bound; reinstalling, clearing local data or changing the clock does not reset it.
+- Remaining trial days are shown in the launcher, the top bar and the License panel.
+- Offline trial support: days opened offline are queued and reported when the store is reachable again.
+- Optional uninstall feedback on Windows (browser page, skippable, never blocks the uninstall).
+- Self-service license recovery with checkout email + machine code, without needing the order number.
+- Trial-first storefront and documentation; price now appears only on the purchase/checkout pages.
+- New English and Chinese screenshots.
+
 ## 1.0.0 — 2026-11-10
 
 First paid release.

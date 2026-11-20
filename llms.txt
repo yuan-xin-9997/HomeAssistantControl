@@ -6,12 +6,13 @@ Home Assistant Control is a paid desktop application from an independent develop
 
 ## Product facts
 
-- Price: $9.99 USD, one-time purchase
+- Free trial: 30 days with every feature; only days on which the app is opened count; server-side and machine-bound
+- Price: one-time license after the trial; the amount is shown on the purchase/checkout page only
 - License: 2 computers, 1 year of updates
 - Platforms: Windows 10/11 (64-bit), macOS 13+, browser dashboard served by the app
 - Activation: machine-bound offline HAC code, verified locally with an embedded ECDSA P-256 public key
 - No subscription, no telemetry, no cloud relay
-- Real-device control requires a paid license; a demo mode with sample data is available
+- Real-device control after the trial requires a one-time machine-bound license; a demo mode with sample data is also available
 - Local control works without internet; Xiaomi login/import, model spec sync and SunLogin cloud plugs need internet
 - Not supported: Bluetooth/BLE Mesh/Zigbee/Matter gateways, cameras, locks, robot maps, cloud remote control of other homes
 
