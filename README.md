@@ -99,7 +99,7 @@ After the free trial, Home Assistant Control uses **offline activation**:
 - Paste it into the app. Verification uses an embedded P-256 public key; no license server is contacted.
 - Each order covers **2 computers**. Reusing the same machine code returns the same code without consuming another slot.
 - One-time purchase, including 1 year of updates. The current price is shown on the store's purchase page and at checkout.
-- Lost the code or the receipt? Use [Find my license](https://hacontrol.yuan-xin.top/retrieve) with your checkout email and the machine code; no order number or email delivery is required for a machine that already has a code.
+- Lost the code or the receipt? Use [Find my license](https://hacontrol.yuan-xin.top/retrieve) with your checkout email and the machine code. A machine that already has a code gets it directly; a new machine gets a secure claim link for the latest paid order, so no order number or email delivery is required.
 
 > Already-issued offline codes cannot be revoked remotely. Refunds and disputes stop future reissues and machine changes. See the [refund policy](https://hacontrol.yuan-xin.top/refund).
 
